@@ -26,10 +26,10 @@ Instructions on how to set up the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/rodrigoHM/Python-Project-for-Data-Science.git
 
 # Navigate into the directory
-cd repository-name
+cd Python-Project-for-Data-Science
 
 # Install dependencies
 pip install -r requirements.txt
