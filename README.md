@@ -16,6 +16,11 @@ This project focuses on analyzing the relationship between stock prices and comp
 ## Intended Audience
 This repository is intended for data scientists, financial analysts, and investors interested in understanding stock price behaviors and developing data-driven investment strategies.
 
+##  Stock Graph:
+| Tesla          | GameStop                      |
+|----------------------|---------------------------|
+| ![Tesla_Stock](images/TeslaStocks.png)     | ![GameStop_Stock](images/GMEStocks.png)  |
+
 ## Installation
 Instructions on how to set up the project locally.
 
